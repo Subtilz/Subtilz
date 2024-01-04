@@ -6,7 +6,7 @@ I'm studying.
 
 I've been learinng Something which I myself do not know what 😝🥵
 
-* 🌍  I'm based in Satun , Thailand
+* 🌍  I'm based Somtinng in  , Thailand
 
 <a href="https://www.github.com/Subtilz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Subtilz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
