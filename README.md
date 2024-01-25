@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Suppawit Komkong
+Hi ! My name is Suppawit Komkong
 ========================================================================================================================================
 
-I'm studying.
+I'm studying Electronic Engineering.
 -------------
 
 I've been learinng Something which I myself do not know what 😝🥵
