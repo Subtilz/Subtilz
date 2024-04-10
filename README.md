@@ -13,6 +13,7 @@ I'm studying Electronic Engineering.
 <b>My GitHub Stats</b>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Subtilz)](https://github.com/anuraghazra/github-readme-stats)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 Social
 <p align="left"> <a href="https://www.github.com/Subtilz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/_kitspwkk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 
